@@ -74,3 +74,22 @@ switch (true) {
         console.log("Invalid age.");
 }
 
+
+
+++++++++++++++Measuring the sides of Triangle+++++++++++
+
+let side1 = 3;
+let side2 = 4;
+let side3 = 5;
+
+switch (true) {
+    case (side1 === side2 && side2 === side3):
+       console.log("Equilateral triangle");
+       break;
+       case (side1 === side2 || side2 === side3 || side1 === side3):
+        console.log("Isosceles triangle");
+        break;
+        default:
+            console.log("Scalene triangle");
+
+}
