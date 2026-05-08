@@ -25,7 +25,7 @@ This repository contains my daily JavaScript learning journey and practice probl
 | ✅ Day-03 | If Else |
 | ✅ Day-04 | Switch Case |
 | ✅ Day-05 | Loops |
-| ✅ Day-06 | Patterns |
+| ✅ Day-06 | Functions |
 
 ---
 
