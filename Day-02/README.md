@@ -1,6 +1,7 @@
 Day 02 - 40 Days of JavaScript
 -------------------------------
 🎯 Goal of This Lesson
+
 What is Variable?
 
 How to visialize variables?
