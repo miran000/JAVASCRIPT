@@ -1,4 +1,4 @@
-console.log("I am a test script")
+console.log("This is my first day of learning js")
 
 function init() {
   document.getElementById("someId").innerText = "It's Sunny Day"
